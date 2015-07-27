@@ -2,7 +2,7 @@
 
 #CONFIGURAÇÕES DAS STRINGS
 
-$cell 	= "DDD+NUMERO"; ---> Adicionar número a ser enviado o SMS
+$cell 	= "DDD+NUMERO"; ---> Adicionar número a ser enviado o SMS<br>
 $msg  	= "sms via gateway"; ---> Adicionar Mensagem que vai ser enviada
 $token	= "TOKEN"; ---> Adicionar Token da Gama Pixel
 $usuario= "user"; ---> Adicionar seu nome de usuario
