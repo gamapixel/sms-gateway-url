@@ -1,5 +1,8 @@
 # sms-gateway-url
 
+Download da versão Java + Adicionais
+http://bit.ly/1KwAZmC
+
 #CONFIGURAÇÕES DAS STRINGS
 
 $cell 	= "DDD+NUMERO"; ---> Adicionar número a ser enviado o SMS<br>
