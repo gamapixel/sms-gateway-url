@@ -2,8 +2,8 @@
 
 $cell 	="983110504"; #Adicionar número a ser enviado o SMS
 $msg 	="teste de envio de sms via gateway"; #Adicionar Mensagem que vai ser enviada
-$token	="fec07ee4e48cbc304972cf633c12aed8"; #Adicionar Token da Gama Pixel
-$usuario="admin"; #Adicionar seu nome de usuario
+$token	="885620ff5a9eae9acb793251072981d6"; #Adicionar Token da Gama Pixel
+$usuario="demo"; #Adicionar seu nome de usuario
 $msgUni = str_replace(" ", "+", $msg);
 
 
