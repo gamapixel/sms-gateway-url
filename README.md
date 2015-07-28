@@ -16,7 +16,7 @@ Após entrar com seu login e senha vá no menu "Minha conta > Configurações do
 #RESUMO DOS PARÂMETROS DA URL:
 u 		= (Usuário)<br>
 h 		= (Token)<br>
-op=pv 	= (tipo de ação com assinatura do SMS)<br>
+op=pv 	= (tipo de ação)<br>
 to 		= (Número do destinatario)<br>
 msg 	= (Mensagem)<br>
 
