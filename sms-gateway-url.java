@@ -32,7 +32,7 @@ public class EnvioBean implements Serializable {
 		celular = celular.replaceAll("\\D", "");
 		// TRANTANDO ESPACOS DIGITADOS NA MSG
 		texto = texto.replaceAll(" ", "+");
-		String urlMaster = "http://sms.gamapixel.net:81/index.php?app=ws&u="
+		String urlMaster = "http://sms.gp.inf.br:81/index.php?app=ws&u="
 				+ usuario + "&h=" + token + "&op=pv&to=" + celular + "&msg="
 				+ texto;
 		URL obj = new URL(urlMaster);
