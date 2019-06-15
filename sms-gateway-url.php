@@ -7,7 +7,7 @@ $usuario="demo"; #Adicionar seu nome de usuario
 $msgUni = str_replace(" ", "+", $msg);
 
 
-$urlMaster=  "http://sms.gamapixel.net:81/index.php?app=ws&u=".$usuario."&h=".$token."&op=pv&to=" . $cell . "&msg=" . $msgUni ;
+$urlMaster=  "http://sms.gp.inf.br:81/index.php?app=ws&u=".$usuario."&h=".$token."&op=pv&to=" . $cell . "&msg=" . $msgUni ;
 
 
 echo "<br>GETEWAY DE <b>SMS</b> 
